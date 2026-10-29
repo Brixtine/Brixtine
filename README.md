@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Brixxtine" width="100%"/>
+  <img src="./banner.svg" alt="brixtine" width="100%"/>
 </div>
 
 <br/>
@@ -51,21 +51,21 @@
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brixxtine&show_icons=true&bg_color=0A0A0A&title_color=FF5C00&icon_color=FF5C00&text_color=F5F2ED&border_color=FF5C00&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brixxtine&layout=compact&bg_color=0A0A0A&title_color=FF5C00&text_color=F5F2ED&border_color=FF5C00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brixtine&show_icons=true&bg_color=0A0A0A&title_color=FF5C00&icon_color=FF5C00&text_color=F5F2ED&border_color=FF5C00&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brixtine&layout=compact&bg_color=0A0A0A&title_color=FF5C00&text_color=F5F2ED&border_color=FF5C00)
 
 <br/>
 
 ### Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brixxtine&bg_color=0A0A0A&color=FF5C00&line=FF5C00&point=F5F2ED&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brixtine&bg_color=0A0A0A&color=FF5C00&line=FF5C00&point=F5F2ED&area=true&hide_border=false)
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brixxtine/brixxtine/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brixxtine/brixxtine/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/brixxtine/brixxtine/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brixtine/brixtine/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brixtine/brixtine/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/brixtine/brixtine/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
